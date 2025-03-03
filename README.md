@@ -1,3 +1,2 @@
  - Hi, I’m @shreyshreygowda
- - a student pursuing a career in Computer Science 💻
- - femtech 🖇📌 | AI 🖥
+ - a student pursuing a career in software development 💻, femtech 🖇📌, and AI 🖥
