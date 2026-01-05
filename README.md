@@ -1,6 +1,6 @@
 # Hi, I’m @shreyshreygowda 🐘
 
-I’m **Shreya Nadagowda**, a Computer Science @ **University of Pennsylvania** aspiring to build a career at the intersection of  
+I’m **Shreya Nadagowda**, pursuing CS, AI, & Entrepreneurship @ **University of Pennsylvania** aspiring to build a career at the intersection of  
 **software engineering and healthcare management**, with a strong focus on **AI-driven medical and MedTech innovation**.
 
 
