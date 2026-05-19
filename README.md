@@ -1,4 +1,4 @@
-# Shreya Nadagowda
+# Hi! I'm Shreya Nadagowda
 
 CS @ Penn (AI concentration) · Software Engineer · ML Researcher
 
