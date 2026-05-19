@@ -27,8 +27,15 @@ Building full-stack software and ML systems — from LLM evaluation pipelines an
 **Frameworks** React · React Native · Next.js · Django · Node.js · PyTorch · TensorFlow · Hugging Face Transformers
 **Tools** PostgreSQL · Supabase · Docker · REST APIs · Git · Figma
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,react,nextjs,ts,nodejs,django,postgres,supabase,docker,git,linux&perline=7" />
+  </a>
+</p>
+
 ### 🏆 Honors
 
 - International Finalist, **Wix Creators of Tomorrow** (Python/JS ML analyzer)
 
 ---
+
