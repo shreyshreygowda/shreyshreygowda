@@ -29,7 +29,7 @@ Building full-stack software and ML systems — from LLM evaluation pipelines an
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,react,nextjs,nodejs,django,pytorch,tensorflow,postgres,supabase,docker,git,linux,figma,vercel&perline=18" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,react,nextjs,nodejs,django,pytorch,tensorflow,postgres,supabase,docker,git,figma,postman,vercel,mysql,fastapi,sklearn&perline=21" />
   </a>
 </p>
 
