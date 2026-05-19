@@ -1,23 +1,34 @@
-# Hi, I’m @shreyshreygowda 🐘
+# Shreya Nadagowda
 
-I’m **Shreya Nadagowda**, pursuing **CS, AI, & Entrepreneurship @ University of Pennsylvania** aspiring to build a career at the intersection of  
-**software engineering and healthcare management**, with a strong focus on **AI-driven medical and MedTech innovation**.
+CS @ Penn (AI concentration) · Software Engineer · ML Researcher
 
+Building full-stack software and ML systems — from LLM evaluation pipelines and computer vision APIs to cross-platform mobile apps and full-stack web platforms.
 
-## 💎 About
-- 🎓 BSE in Computer Science (AI concentration), Minor in Engineering Entrepreneurship  
-- 🧠 Interested in **healthcare technology, product-led engineering, and tech-driven health systems**
-- 🔄 Experience across **software development, AI research, and product strategy**
+📧 shreyanadagowda@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/shreyanadagowda)
 
+---
 
-## 💎 Experience Highlights
-- **Product Management Intern @ Dorsal.fyi**
-- **Software Development Intern @ Fem Entity**
-- **ML Research Intern @ UCSF Department of Epidemiology & Biostatistics**
-- **Applied Management Program @ Wharton Management**
+### 💼 Industry Experience
 
+- **Product Management Intern** @ Dorsal.fyi *(acquired by Promise)* 
+- **Software Engineering Intern** @ Fem Entity 
+- **ML Research Intern** @ UCSF Epidemiology & Biostatistics 
+- **AI Research Intern** @ The New York Academy of Sciences 
 
+### 🎓 Penn Experience
 
-## 🔗 Contact
-📧 shreyanadagowda@gmail.com  
-💼 linkedin.com/in/shreyanadagowda
+- **VP External & Project Lead** @ Penn Spark — led 6 engineers to ship [Career@Penn](https://career-at-penn.vercel.app/), a full-stack analytics platform on Vercel with Next.js/TypeScript frontend and Python/Supabase backend
+- **Co-Founder / Software Engineer** @ Eileithyia — architected a React Native + Next.js + PyTorch stack for a wearable monitoring system; pitched at Wharton Healthcare Startup Incubator
+- **ML Engineer** @ Penn Assistive Devices & Prosthetic Technologies (ADAPT) — built grip-pattern classifier on EMG + motion sensor data in scikit-learn for a bionic prosthetic arm
+
+### 🧰 Stack
+
+**Languages** Python · Java · C · TypeScript · JavaScript · SQL
+**Frameworks** React · React Native · Next.js · Django · Node.js · PyTorch · TensorFlow · Hugging Face Transformers
+**Tools** PostgreSQL · Supabase · Docker · REST APIs · Git · Figma
+
+### 🏆 Honors
+
+- International Finalist, **Wix Creators of Tomorrow** (Python/JS ML analyzer)
+
+---
