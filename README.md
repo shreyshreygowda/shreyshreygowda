@@ -1,6 +1,6 @@
 # Hi! I'm Shreya Nadagowda
 
-CS @ Penn (AI concentration) · Software Engineer · ML Researcher
+CS @ Penn (AI concentration) & Engineering Entreprenuership Minor 
 
 Building full-stack software and ML systems — from LLM evaluation pipelines and computer vision APIs to cross-platform mobile apps and full-stack web platforms.
 
