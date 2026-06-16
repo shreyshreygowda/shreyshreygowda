@@ -1,31 +1,35 @@
 # Hi! I'm Shreya Nadagowda
 
-CS @ Penn (AI concentration) & Engineering Entreprenuership Minor 
+CS @ Penn (AI concentration) & Engineering Entrepreneurship Minor
 
-Building full-stack software and ML systems — from LLM evaluation pipelines and computer vision APIs to cross-platform mobile apps and full-stack web platforms.
+Building full-stack software and machine learning systems — from LLM evaluation frameworks and multimodal AI research to analytics platforms, developer tools, and cross-platform applications.
 
-📧 shreyanadagowda@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/shreyanadagowda) · 💎 [Website](https://shreya-nadagowda-website.vercel.app/)
+📧 [shreyanadagowda@gmail.com](mailto:shreyanadagowda@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/shreyanadagowda) · 💎 [Website](https://shreya-nadagowda-website.vercel.app/)
 
 ---
 
 ### 👩‍💻 Industry Experience
 
-- **Product Management Intern** @ Dorsal.fyi *(acquired by Promise)* 
-- **Software Engineering Intern** @ Fem Entity 
-- **ML Research Intern** @ UCSF Epidemiology & Biostatistics 
-- **AI Research Intern** @ The New York Academy of Sciences 
+* **AI Engineer** @ Syndicate 708 — building AI infrastructure for deep-tech investment and aerospace manufacturing workflows
+* **Product Management Intern** @ Dorsal.fyi *(acquired by Promise)* — scoped AI-powered healthcare contract intelligence systems
+* **Software Engineering Intern** @ Fem Entity — developed mobile infrastructure and NLP intake workflows for healthcare providers
+* **ML Research Intern** @ UCSF Epidemiology & Biostatistics — evaluated LLMs on social determinants of health datasets
+* **AI Research Intern** @ The New York Academy of Sciences — built deepfake detection models achieving 95%+ accuracy
 
 ### 💙❤️ Penn Experience
 
-- **VP External & Project Lead** @ Penn Spark — led 6 engineers to ship [Career@Penn](https://career-at-penn.vercel.app/), a full-stack analytics platform on Vercel with Next.js/TypeScript frontend and Python/Supabase backend
-- **Co-Founder / Software Engineer** @ Eileithyia — architected a React Native + Next.js + PyTorch stack for a wearable monitoring system; pitched at Wharton Healthcare Startup Incubator
-- **ML Engineer** @ Penn Assistive Devices & Prosthetic Technologies (ADAPT) — built grip-pattern classifier on EMG + motion sensor data in scikit-learn for a bionic prosthetic arm
+* **Generative AI Research Assistant** @ Wharton Generative AI Lab — researching multimodal reasoning and evaluation of foundation models on financial and visual data
+* **VP External & Project Lead** @ Penn Spark — led 6 engineers to ship [Career@Penn](https://career-at-penn.vercel.app/), a full-stack analytics platform built with Next.js, TypeScript, Python, and Supabase
+* **Co-Founder & Software Engineer** @ Eileithyia, Organizer of Wharton Healthcare Incubator — architected a React Native + Next.js + PyTorch platform for wearable maternal health monitoring; pitched at the Wharton Healthcare Startup Incubator
+* **AI Engineer & Software Developer** @ Penn Assistive Devices & Prosthetic Technologies (ADAPT) — built an EMG-based grip classifier for a bionic prosthetic arm using scikit-learn
 
 ### 💻 Stack
 
 **Languages** Python · Java · C · TypeScript · JavaScript · SQL
-**Frameworks** React · React Native · Next.js · Django · Node.js · PyTorch · TensorFlow · Hugging Face Transformers
-**Tools** PostgreSQL · Supabase · Docker · REST APIs · Git · Figma
+
+**Frameworks** React · React Native · Next.js · Django · FastAPI · Node.js · PyTorch · TensorFlow · Hugging Face Transformers
+
+**Tools** PostgreSQL · Supabase · Docker · REST APIs · Git · Figma · Vercel
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,7 +39,5 @@ Building full-stack software and ML systems — from LLM evaluation pipelines an
 
 ### 🏆 Honors
 
-- International Finalist, **Wix Creators of Tomorrow** (Python/JS ML analyzer)
-
----
-
+* International Finalist, **Wix Creators of Tomorrow**
+* Presenter, **Wharton Healthcare Startup Incubator**
