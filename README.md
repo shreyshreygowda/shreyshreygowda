@@ -4,7 +4,7 @@ CS @ Penn (AI concentration) & Engineering Entreprenuership Minor
 
 Building full-stack software and ML systems — from LLM evaluation pipelines and computer vision APIs to cross-platform mobile apps and full-stack web platforms.
 
-📧 shreyanadagowda@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/shreyanadagowda)
+📧 shreyanadagowda@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/shreyanadagowda) · 💎 [Website](https://shreya-nadagowda-website.vercel.app/)
 
 ---
 
