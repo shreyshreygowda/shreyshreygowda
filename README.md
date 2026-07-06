@@ -19,7 +19,7 @@ Building full-stack software and machine learning systems — from LLM evaluatio
 ### 💙❤️ Penn Experience
 
 * **Generative AI Research Assistant** @ Wharton Generative AI Lab — researching multimodal reasoning and evaluation of foundation models on financial and visual data
-* **VP External & Project Lead** @ Penn Spark — led 6 engineers to ship [Career@Penn](https://career-at-penn.vercel.app/), a full-stack analytics platform built with Next.js, TypeScript, Python, and Supabase
+* **VP External & Project Lead** @ Penn Spark — led 6 engineers to ship [Career@Penn](https://career-at-penn.vercel.app/), a full-stack analytics platform built with Next.js, TypeScript, Python, and Supabase. Managing external partners like Khosla Ventures, Reve, and more...
 * **Co-Founder & Software Engineer** @ Eileithyia, Organizer of Wharton Healthcare Incubator — architected a React Native + Next.js + PyTorch platform for wearable maternal health monitoring; pitched at the Wharton Healthcare Startup Incubator
 * **AI Engineer & Software Developer** @ Penn Assistive Devices & Prosthetic Technologies (ADAPT) — built an EMG-based grip classifier for a bionic prosthetic arm using scikit-learn
 
